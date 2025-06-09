@@ -1,6 +1,6 @@
 # pihole-setup
 
-This repository is for files related to my [pi-hole setup tutorial](jackwaterloo.com/post/pi-hole-setup).
+This repository is for files related to my [pi-hole setup tutorial](https://jackwaterloo.com/running-pihole-in-docker-block-ads-across-all-applications/).
 
 ### Pi-Hole Compose File
 
